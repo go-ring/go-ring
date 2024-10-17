@@ -4,8 +4,11 @@
 ## 👀 About me
 
 - **Name** : 이가은 (Lee Gaeun)  
-- **Email** : [dlrkdms001@gmail.com](mailto:dlrkdms001@gmail.com)
-- **Blog** : [*Velog*](https://velog.io/@goring/posts)
+- **Email** : dlrkdms001@gmail.com
+- **My Notes** :
+  - [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=goring)](https://velog.io/@goring)
+  - [![TIL Notion](https://img.shields.io/badge/TIL%20in%20Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/Today-I-Learned-087c3074d3334e07bf5ac151610141e9)
+
 
 
 </br>
