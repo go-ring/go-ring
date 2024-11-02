@@ -1,5 +1,5 @@
-<div align='center'> <h1><strong><i> Hello, I'm GaEun 🌱 </i></strong></h1></div>
-<br>
+
+![Capsule Render](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&desc=I%20am%20GaEun&fontAlignY=40&color=0:feac5e50:c779d0,100:4bc0c8&fontColor=f7f5f5&textBg=282829)
 
 ## 👀 About me
 
