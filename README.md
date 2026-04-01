@@ -71,40 +71,14 @@
 ---
 
 ## 💻 Projects
+<br>
 
-### 🐶 [BAEKGU (백구)](#)
-**AI 기반 맞춤형 채용/구직 플랫폼 (2026.01 ~ 2026.02)**  
-> 기술 경험과 재무/뉴스 데이터를 교차 분석하여 공고 매칭 및 증거 중심(Evidence-based) 자소서 작성을 돕는 올인원 솔루션.
-- **역할**: Backend & JiraOps (`Java`, `Spring Boot`, `Redis`, `QueryDSL`)
-- **성과**:
-  - 보안 로직 DB → Redis 전환으로 응답속도 120ms → 5ms, CPU 사용률 80% 감소.
-  - 채팅방 목록 조회 속도 30배 개선 (QueryDSL 최적화).
-  - STOMP 레이어로 인증 시점을 분리하여 채팅 지연시간 10ms 미만 단축. 
-
-### 📝 [Algogo (알고고)](#)
-**스터디 관리 및 지능형 코드 리뷰 플랫폼 (2025.10 ~ 2025.11)**
-> 알고리즘 문제 제출 시스템과 G-Eval AI 코드 분석 엔진을 결합한 스터디 자동화 플랫폼.
-- **역할**: Backend & CI/CD (`Spring Boot`, `MySQL`, `Docker`, `GitLab CI/CD`)
-- **성과**:
-  - Blue-Green 배포 안정화를 통한 트래픽 유실 0건 달성.
-  - 레이어 캐싱 및 Multi-stage 빌드로 CI/CD 배포 파이프라인 66% 단축 (12분 → 4분).
-  - 커스텀 `@Async` 스레드 풀 분리로 AI 응답 지연의 시스템 전파 방지.
-
-### 💊 [DDOYA (또야)](#)
-**AI 비전 스캐닝 맞춤형 영양제 및 복약 관리 솔루션 (2026.02 ~ 2026.03)**  
-> 스마트폰 카메라로 알약과 성분표를 인식하여 맞춤형 분석 리포트와 복약 캘린더를 제공하는 앱.
-- **역할**: Backend & Infra (`Spring Boot`, `MySQL`, `FastAPI`, `Jenkins`)
-- **성과**:
-  - 스마트 복약 인증 및 성분 분석 API 파이프라인 구축.
-  - FCM 기반 푸시 알림 연동 및 FastAPI와의 데이터 통신 인터페이스 최적화.
-
-### 🎨 [ColorFinder (컬러파인더)](#)
-**데이터 기반 퍼스널 컬러 진단 및 의류 추천 이커머스**  
-> 안면 색상 데이터를 유클리디안 거리 알고리즘으로 분석하여 퍼스널 컬러를 분류하고 기온에 맞는 의류를 추천.
-- **역할**: Server 개발 (`Spring`, `Flask`, `MySQL`, `Python`)
-- **성과**:
-  - 기상청 실시간 API 응답을 메모리(Local Cache) 처리하여 성능 부하 통제.
-  - 맞춤형 의류 카테고리 필터링 알고리즘 및 결제 비즈니스 로직 연동.
+| 프로젝트 이미지 | 상세 내용 |
+| :---: | :--- |
+| <img src="./assets/images/baekgu.png" width="350" alt="BAEKGU"> | **BAEKGU (백구)**<br>> AI 기반 맞춤형 채용/구직 플랫폼<br><br>기간 : 2026.01 ~ 2026.02<br><br>기술 경험과 재무/뉴스 데이터를 교차 분석하여 공고 매칭 및 증거 중심(Evidence-based) 자소서 작성을 돕는 올인원 솔루션.<br>보안 로직 DB → Redis 전환으로 응답속도 120ms → 5ms 개선 및 CPU 사용률 80% 감소 달성.<br>STOMP 레이어로 인증 시점을 분리하여 채팅 지연시간 10ms 미만으로 단축.<br><br>`Backend` `Infra` \| Java, Spring Boot, Redis, QueryDSL<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| <img src="./assets/images/algogo.png" width="350" alt="Algogo"> | **Algogo (알고고)**<br>> 스터디 관리 및 지능형 코드 리뷰 플랫폼<br><br>기간 : 2025.10 ~ 2025.11<br><br>알고리즘 문제 제출 시스템과 G-Eval AI 코드 분석 엔진을 결합한 스터디 자동화 플랫폼.<br>Blue-Green 배포 안정화를 꾀하여 트래픽 유실 0건 달성.<br>레이어 캐싱 및 Multi-stage 빌드로 CI/CD 배포 파이프라인 66% 단축 (12분 → 4분).<br><br>`Backend` `Infra` \| Spring Boot, MySQL, Docker, GitLab CI/CD<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| <img src="./assets/images/ddoya.jpg" width="350" alt="DDOYA"> | **DDOYA (또야)**<br>> AI 비전 스캐닝 맞춤형 영양제 및 복약 관리 솔루션<br><br>기간 : 2026.02 ~ 2026.03<br><br>스마트폰 카메라로 알약과 성분표를 인식하여 맞춤형 분석 리포트와 복약 캘린더를 제공하는 앱.<br>스마트 복약 인증 및 성분 분석 API 파이프라인 구축.<br>FCM 기반 푸시 알림 연동 및 FastAPI와의 데이터 통신 인터페이스 최적화.<br><br>`Backend` `Infra` \| Spring Boot, MySQL, FastAPI, Jenkins<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
+| <img src="./assets/images/colorfinder.png" width="350" alt="ColorFinder"> | **ColorFinder (컬러파인더)**<br>> 데이터 기반 퍼스널 컬러 진단 및 의류 추천 이커머스<br><br>안면 색상 데이터를 유클리디안 거리 알고리즘으로 분석하여 퍼스널 컬러를 분류하고 기온에 맞는 의류 추천.<br>기상청 실시간 API 응답을 메모리(Local Cache) 처리하여 성능 부하 통제.<br>맞춤형 의류 카테고리 필터링 알고리즘 및 결제 비즈니스 로직 적용.<br><br>`Backend` \| Spring, Flask, MySQL, Python<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaeha617/capstone_colorfinder) |
 
 ---
 
