@@ -78,22 +78,17 @@
 
 ---
 
-## 📊 GitHub Stats & Career
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=go-ring&show_icons=true&theme=transparent&hide_border=true&title_color=c779d0&icon_color=4bc0c8&text_color=ffffff&bg_color=282829" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=go-ring&layout=compact&theme=transparent&hide_border=true&title_color=c779d0&text_color=ffffff&bg_color=282829" height="150" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br>
-  <a href="https://solved.ac/goring/">
-    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=goring" alt="Solved.ac Profile" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=go-ring&theme=dark&hide_border=true&background=282829&ring=c779d0&fire=feac5e&currStreakLabel=4bc0c8&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=aaaaaa" height="150" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=go-ring&bg_color=282829&color=c779d0&line=4bc0c8&point=feac5e&area=true&hide_border=true" height="150" alt="Contribution Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgo-ring&count_bg=%23282829&title_bg=%23282829&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+  <a href="https://solved.ac/goring/">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=goring" alt="Solved.ac Profile" />
+  </a>
 </div>
