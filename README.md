@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&desc=I%20am%20GaEun&fontAlignY=40&color=0:feac5e,50:c779d0,100:4bc0c8&fontColor=f7f5f5" alt="Header" />
 </div>
 
@@ -12,13 +12,9 @@
 <br>
 
 <div align="center">
-  <a href="https://go-ring.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-282829?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA10lEQVR42sWSPUoEURCEv5oZUIQ1UcFYvIaZobGCRl7FwGOIuZF3EAM9gaCZCsb+gezuZ2AviMyIaGAl7/Xrqn5NV8Mvkb5HNZUziT+qpLbfxUOips6RuqaO+vJDon31Tn1V79VDten9We3UVt2wHwfFWx9q9aKI4y/Cc/Wo7scAXU1wGdgDFoFbYAV4Ax6BK2AC7ACnwANASrgAXANLRbwEGmAO2KzCJ0m2Z9115dOzugWsAk/AGdAC88Au8ALc1ICSZMyfN6fsCB8lJ582aGbDNMmUf8M74a2nswQruGMAAAAASUVORK5CYII=&logoColor=white" align="center" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://velog.io/@goring"><img src="https://img.shields.io/badge/Velog-20CE94?style=for-the-badge&logo=velog&logoColor=white" align="center" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:dlrkdms001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" /></a>
+  <a href="https://go-ring.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-282829?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA10lEQVR42sWSPUoEURCEv5oZUIQ1UcFYvIaZobGCRl7FwGOIuZF3EAM9gaCZCsb+gezuZ2AviMyIaGAl7/Xrqn5NV8Mvkb5HNZUziT+qpLbfxUOips6RuqaO+vJDon31Tn1V79VDten9We3UVt2wHwfFWx9q9aKI4y/Cc/Wo7scAXU1wGdgDFoFbYAV4Ax6BK2AC7ACnwANASrgAXANLRbwEGmAO2KzCJ0m2Z9115dOzugWsAk/AGdAC88Au8ALc1ICSZMyfN6fsCB8lJ582aGbDNMmUf8M74a2nswQruGMAAAAASUVORK5CYII=&logoColor=white" /></a>
+  <a href="https://velog.io/@goring"><img src="https://img.shields.io/badge/Velog-20CE94?style=for-the-badge&logo=velog&logoColor=white" /></a>
+  <a href="mailto:dlrkdms001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
