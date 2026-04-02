@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&desc=I%20am%20GaEun&fontAlignY=40&color=0:feac5e50:c779d0,100:4bc0c8&fontColor=f7f5f5&textBg=282829" alt="Header" />
+﻿<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!&desc=I%20am%20GaEun&fontAlignY=40&color=0:feac5e,50:c779d0,100:4bc0c8&fontColor=f7f5f5" alt="Header" />
 </div>
 
 <br>
@@ -13,8 +13,7 @@
 
 <div align="center">
   <a href="https://go-ring.github.io/portfolio/">
-    <img src="white_turtle.png" height="28" align="center" />
-    <img src="https://img.shields.io/badge/Portfolio-282829?style=for-the-badge" align="center" />
+    <img src="https://img.shields.io/badge/Portfolio-282829?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAA10lEQVR42sWSPUoEURCEv5oZUIQ1UcFYvIaZobGCRl7FwGOIuZF3EAM9gaCZCsb+gezuZ2AviMyIaGAl7/Xrqn5NV8Mvkb5HNZUziT+qpLbfxUOips6RuqaO+vJDon31Tn1V79VDten9We3UVt2wHwfFWx9q9aKI4y/Cc/Wo7scAXU1wGdgDFoFbYAV4Ax6BK2AC7ACnwANASrgAXANLRbwEGmAO2KzCJ0m2Z9115dOzugWsAk/AGdAC88Au8ALc1ICSZMyfN6fsCB8lJ582aGbDNMmUf8M74a2nswQruGMAAAAASUVORK5CYII=&logoColor=white" align="center" />
   </a>
   &nbsp;&nbsp;
   <a href="https://velog.io/@goring"><img src="https://img.shields.io/badge/Velog-20CE94?style=for-the-badge&logo=velog&logoColor=white" align="center" /></a>
@@ -71,6 +70,7 @@
 ---
 
 ## 💻 Projects
+
 <br>
 
 | 프로젝트 이미지 | 상세 내용 |
@@ -78,7 +78,7 @@
 | <img src="./assets/images/baekgu.png" width="350" alt="BAEKGU"> | **BAEKGU (백구)**<br>> AI 기반 맞춤형 채용/구직 플랫폼<br><br>기간 : 2026.01 ~ 2026.02<br><br>기술 경험과 재무/뉴스 데이터를 교차 분석하여 공고 매칭 및 증거 중심(Evidence-based) 자소서 작성을 돕는 올인원 솔루션.<br>보안 로직 DB → Redis 전환으로 응답속도 120ms → 5ms 개선 및 CPU 사용률 80% 감소 달성.<br>STOMP 레이어로 인증 시점을 분리하여 채팅 지연시간 10ms 미만으로 단축.<br><br>`Backend` `Infra` \| Java, Spring Boot, Redis, QueryDSL<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
 | <img src="./assets/images/algogo.png" width="350" alt="Algogo"> | **Algogo (알고고)**<br>> 스터디 관리 및 지능형 코드 리뷰 플랫폼<br><br>기간 : 2025.10 ~ 2025.11<br><br>알고리즘 문제 제출 시스템과 G-Eval AI 코드 분석 엔진을 결합한 스터디 자동화 플랫폼.<br>Blue-Green 배포 안정화를 꾀하여 트래픽 유실 0건 달성.<br>레이어 캐싱 및 Multi-stage 빌드로 CI/CD 배포 파이프라인 66% 단축 (12분 → 4분).<br><br>`Backend` `Infra` \| Spring Boot, MySQL, Docker, GitLab CI/CD<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
 | <img src="./assets/images/ddoya.jpg" width="350" alt="DDOYA"> | **DDOYA (또야)**<br>> AI 비전 스캐닝 맞춤형 영양제 및 복약 관리 솔루션<br><br>기간 : 2026.02 ~ 2026.03<br><br>스마트폰 카메라로 알약과 성분표를 인식하여 맞춤형 분석 리포트와 복약 캘린더를 제공하는 앱.<br>스마트 복약 인증 및 성분 분석 API 파이프라인 구축.<br>FCM 기반 푸시 알림 연동 및 FastAPI와의 데이터 통신 인터페이스 최적화.<br><br>`Backend` `Infra` \| Spring Boot, MySQL, FastAPI, Jenkins<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](#) |
-| <img src="./assets/images/colorfinder.png" width="350" alt="ColorFinder"> | **ColorFinder (컬러파인더)**<br>> 데이터 기반 퍼스널 컬러 진단 및 의류 추천 이커머스<br><br>안면 색상 데이터를 유클리디안 거리 알고리즘으로 분석하여 퍼스널 컬러를 분류하고 기온에 맞는 의류 추천.<br>기상청 실시간 API 응답을 메모리(Local Cache) 처리하여 성능 부하 통제.<br>맞춤형 의류 카테고리 필터링 알고리즘 및 결제 비즈니스 로직 적용.<br><br>`Backend` \| Spring, Flask, MySQL, Python<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaeha617/capstone_colorfinder) |
+| <img src="./assets/images/colorfinder.png" width="350" alt="ColorFinder"> | **ColorFinder (컬러파인더)**<br>> 데이터 기반 퍼스널 컬러 진단 및 의류 추천 이커머스<br><br>기간 : 2024.03 ~ 2024.06<br><br>안면 색상 데이터를 유클리디안 거리 알고리즘으로 분석하여 퍼스널 컬러를 분류하고 기온에 맞는 의류 추천.<br>기상청 실시간 API 응답을 메모리(Local Cache) 처리하여 성능 부하 통제.<br>맞춤형 의류 카테고리 필터링 알고리즘 및 결제 비즈니스 로직 적용.<br><br>`Backend` \| Spring, Flask, MySQL, Python<br><br>[![Repository](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chaeha617/capstone_colorfinder) |
 
 ---
 
@@ -92,7 +92,7 @@
 <div align="center">
   <br>
   <a href="https://solved.ac/goring/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goring" alt="Solved.ac Profile" />
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=goring" alt="Solved.ac Profile" />
   </a>
 </div>
 
